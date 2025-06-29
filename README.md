@@ -7,7 +7,7 @@ E.g :
   output : Ture
 Or :
   a = int
-  isinstance(a , iny)
+  isinstance(a , str)
  output : flase
 
 This is a very good function for Ipython 
